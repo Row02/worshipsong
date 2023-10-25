@@ -1,0 +1,37 @@
+{
+    "song1" : {
+       "song" : "What A Beautiful Name",
+       "artist" : "Hillsong Worship",
+       "genre" : "Christian",
+       "link": "https://www.youtube.com/watch?v=nQWFzMvCfLE"
+    },
+    
+    "song2" : {
+       "song" : "Oceans",
+       "artist" : "Hillsong UNITED",
+       "genre" : "Christian",
+       "link": "https://www.youtube.com/watch?v=OP-00EwLdiU"
+    },
+    
+    "song3" : {
+       "song" : "10,000 Reasons",
+       "artist" : "Matt Redman",
+       "genre" : "Christian",
+       "link":"https://www.youtube.com/watch?v=XtwIT8JjddM"
+    },
+
+    "song4" : {
+        "song" : "This Is Amazing Grace",
+        "artist" : "Phil Wickham",
+        "genre" : "Christian",
+        "link": "https://www.youtube.com/watch?v=XFRjr_x-yxU"
+     },
+
+     "song5" : {
+        "song" : "Our God",
+        "artist" : "Chris Tomlin",
+        "genre" : "Christian",
+        "link": "https://www.youtube.com/watch?v=NJpt1hSYf2o"
+     }
+
+ }
